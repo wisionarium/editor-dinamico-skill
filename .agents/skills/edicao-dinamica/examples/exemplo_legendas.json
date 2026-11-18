@@ -1,0 +1,44 @@
+[
+  {
+    "start": 0.0,
+    "end": 1.6,
+    "text": "Presta atenção em uma coisa:",
+    "highlightWord": "atenção",
+    "position": "chest"
+  },
+  {
+    "start": 1.6,
+    "end": 3.4,
+    "text": "Marcas de luxo não vendem produtos,",
+    "highlightWord": "luxo",
+    "position": "chest"
+  },
+  {
+    "start": 3.4,
+    "end": 5.2,
+    "text": "Elas vendem significado!",
+    "highlightWord": "significado",
+    "position": "head"
+  },
+  {
+    "start": 5.2,
+    "end": 7.8,
+    "text": "Você nunca vai ver a Rolex",
+    "highlightWord": "Rolex",
+    "position": "chest"
+  },
+  {
+    "start": 7.8,
+    "end": 10.5,
+    "text": "tentando te convencer sobre o mecanismo.",
+    "highlightWord": "mecanismo",
+    "position": "chest"
+  },
+  {
+    "start": 10.5,
+    "end": 13.0,
+    "text": "Você vê tempo, prestígio e legado.",
+    "highlightWord": "prestígio",
+    "position": "chest"
+  }
+]

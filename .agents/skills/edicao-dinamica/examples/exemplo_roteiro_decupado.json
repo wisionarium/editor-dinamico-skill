@@ -1,0 +1,78 @@
+{
+  "project_name": "Reel Branding de Alto Valor",
+  "source_video": "bruto_gravacao_01.mp4",
+  "target_duration_seconds": 45,
+  "theme": "Por que grandes marcas não vendem características técnicas",
+  "pacing_strategy": {
+    "hook_duration": "0s - 3s (Punch-in agressivo + dual-font)",
+    "average_cut_cadence": "1.8 segundos por estímulo visual",
+    "broll_ratio": "40% A-roll (apresentador), 35% B-roll cinematográfico, 25% tela editorial/motion"
+  },
+  "timeline_blocks": [
+    {
+      "time_range": "00:00 - 00:02",
+      "voiceover": "Presta atenção em uma coisa:",
+      "visual_type": "A-Roll (Punch-in 110%)",
+      "framing": "Card centralizado com bordas arredondadas sobre fundo bege #D8CBBF",
+      "subtitle": {
+        "base_text": "Presta",
+        "highlight_word": "atenção",
+        "font_pair": "luxury_editorial",
+        "position": "chest"
+      },
+      "sfx": "soft_pop"
+    },
+    {
+      "time_range": "00:02 - 00:05",
+      "voiceover": "Marcas de luxo não vendem produtos... Elas vendem significado!",
+      "visual_type": "Editorial Paper / HUD Grid",
+      "framing": "Fundo branco com grid sutil e linhas técnicas, revelação em escala suave",
+      "subtitle": {
+        "base_text": "Elas vendem",
+        "highlight_word": "significado",
+        "font_pair": "luxury_editorial",
+        "position": "head"
+      },
+      "sfx": "paper_slide"
+    },
+    {
+      "time_range": "00:05 - 00:10",
+      "voiceover": "Você nunca vai ver a Rolex tentando te convencer sobre mecanismos.",
+      "visual_type": "B-Roll Cinematográfico",
+      "framing": "Close-up macro em câmera lenta de relógio suíço",
+      "subtitle": {
+        "base_text": "ver a Rolex tentando te convencer",
+        "highlight_word": "Rolex",
+        "font_pair": "luxury_editorial",
+        "position": "lower_third"
+      },
+      "sfx": "none"
+    },
+    {
+      "time_range": "00:10 - 00:14",
+      "voiceover": "Você vê tempo, prestígio e legado.",
+      "visual_type": "Motion Graphics UI Cards",
+      "framing": "Apresentador ao fundo com 3 cards flutuantes de vidro: [TEMPO] [PRESTÍGIO] [LEGADO]",
+      "subtitle": {
+        "base_text": "Você vê tempo,",
+        "highlight_word": "prestígio",
+        "font_pair": "luxury_editorial",
+        "position": "chest"
+      },
+      "sfx": "ui_click"
+    },
+    {
+      "time_range": "00:14 - 00:18",
+      "voiceover": "A Louis Vuitton não vende bolsas. Ela vende status.",
+      "visual_type": "Split Screen Triptych (3 faixas)",
+      "framing": "3 faixas horizontais de passarela de alta costura",
+      "subtitle": {
+        "base_text": "Ela vende",
+        "highlight_word": "status",
+        "font_pair": "luxury_editorial",
+        "position": "chest"
+      },
+      "sfx": "whoosh"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "framerate_target": [24, 30, 60]
+  },
+  "platforms": {
+    "instagram_reels": {
+      "top_margin_px": 220,
+      "bottom_margin_px": 340,
+      "left_margin_px": 60,
+      "right_margin_px": 140,
+      "active_safe_height": 1360,
+      "active_safe_width": 880,
+      "ui_blocking_elements": [
+        "Header superior (barra de busca, câmera, logo Reels)",
+        "Lateral direita (botões curtir, comentar, compartilhar, menu de 3 pontos, áudio)",
+        "Base inferior (username, legenda de texto, botão seguir, áudio original em loop)"
+      ]
+    },
+    "tiktok": {
+      "top_margin_px": 200,
+      "bottom_margin_px": 380,
+      "left_margin_px": 60,
+      "right_margin_px": 150,
+      "active_safe_height": 1340,
+      "active_safe_width": 870
+    },
+    "youtube_shorts": {
+      "top_margin_px": 180,
+      "bottom_margin_px": 320,
+      "left_margin_px": 60,
+      "right_margin_px": 140,
+      "active_safe_height": 1420,
+      "active_safe_width": 880
+    }
+  },
+  "subtitle_anchor_zones": {
+    "chest_zone": {
+      "description": "Centro do tórax / peito do apresentador (Padrão mais recomendado)",
+      "y_percent_center": 62,
+      "y_pixel_approx": 1190,
+      "alignment": "center"
+    },
+    "above_head_zone": {
+      "description": "Acima da cabeça do apresentador (Ideal para ganchos e quando há gestos baixos)",
+      "y_percent_center": 22,
+      "y_pixel_approx": 420,
+      "alignment": "center"
+    },
+    "lower_third_safe": {
+      "description": "Terço inferior logo acima da barra de legenda da plataforma",
+      "y_percent_center": 75,
+      "y_pixel_approx": 1440,
+      "alignment": "center"
+    }
+  }
+}

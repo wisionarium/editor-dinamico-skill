@@ -1,0 +1,21 @@
+[Script Info]
+Title: Dynamic Reels Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base,Inter,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,1.5,2,60,60,260,1
+Style: Highlight,Playfair Display,76,&H00C5D9E5,&H000000FF,&H00000000,&H80000000,1,1,0,0,100,100,0,0,1,3.5,2,2,60,60,260,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.60,Base,,0,0,0,,{\pos(540,1200)}Presta {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}atenção{\r} em uma coisa:
+Dialogue: 0,0:00:01.60,0:00:03.39,Base,,0,0,0,,{\pos(540,1200)}Marcas de {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}luxo{\r} não vendem produtos,
+Dialogue: 0,0:00:03.39,0:00:05.20,Base,,0,0,0,,{\pos(540,420)}Elas vendem {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}significado{\r}!
+Dialogue: 0,0:00:05.20,0:00:07.79,Base,,0,0,0,,{\pos(540,1200)}Você nunca vai ver a {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}Rolex{\r}
+Dialogue: 0,0:00:07.79,0:00:10.50,Base,,0,0,0,,{\pos(540,1200)}tentando te convencer sobre o {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}mecanismo{\r}.
+Dialogue: 0,0:00:10.50,0:00:13.00,Base,,0,0,0,,{\pos(540,1200)}Você vê tempo, {\fnPlayfair Display\i1\fs76\c&HC5D9E5&}prestígio{\r} e legado.

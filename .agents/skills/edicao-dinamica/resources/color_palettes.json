@@ -1,0 +1,47 @@
+{
+  "description": "Paletas de cores sofisticadas extraídas da análise dos estilos de referência",
+  "palettes": [
+    {
+      "id": "warm_sand_luxury",
+      "name": "Areia Quente & Linho Editorial (Referência Cleverton)",
+      "background": "#D8CBBF",
+      "background_secondary": "#EAE3DB",
+      "card_surface": "#121212",
+      "text_primary": "#FFFFFF",
+      "text_secondary": "#A0A0A0",
+      "accent_gold": "#D4AF37",
+      "accent_terracotta": "#B85D43",
+      "border_subtle": "rgba(255, 255, 255, 0.12)",
+      "safe_contrast_ratio": "4.5:1 no texto base"
+    },
+    {
+      "id": "dark_hud_tactical",
+      "name": "HUD Técnico & Dark Glass (Referência Motion Graphics)",
+      "background": "#0D0E11",
+      "grid_lines": "#242730",
+      "text_primary": "#F7F8FA",
+      "accent_cyan_muted": "#4E8C94",
+      "accent_red_alert": "#E63946",
+      "glass_overlay": "rgba(255, 255, 255, 0.05)",
+      "border_glow": "rgba(255, 255, 255, 0.1)"
+    },
+    {
+      "id": "editorial_paper",
+      "name": "Papel Editorial & Monocromático (Referência Transições de Papel)",
+      "background": "#F5F3EF",
+      "paper_texture_tint": "#ECE7DF",
+      "text_black": "#1A1A1A",
+      "accent_stroke": "#D32F2F",
+      "grid_overlay": "rgba(0, 0, 0, 0.06)"
+    },
+    {
+      "id": "vibrant_acid_lime",
+      "name": "High Retention Acid (Referência Estilo 4 Refinado)",
+      "background": "#000000",
+      "text_primary": "#FFFFFF",
+      "accent_lime": "#DFFF00",
+      "accent_green_mint": "#2ECC71",
+      "shadow": "rgba(0, 0, 0, 0.85)"
+    }
+  ]
+}
